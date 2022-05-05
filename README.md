@@ -9,7 +9,7 @@ Um projeto completo usando cucumber, capybara, siteprism e ruby para servir de e
 De um git clone no projeto
 
 ```
-clone
+https://github.com/Dans360/projeto_teste_page_web.git
 ```
 
 ## 2-Passo:
